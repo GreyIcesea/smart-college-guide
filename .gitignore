@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Nuxt generated files
+.nuxt/
+.output/
+.data/
+.data-stale/
+dist/
+
+# Local runtime and debugging artifacts
+*.log
+*.pid
+.nuxt-*.html
+--host/
+.codex-tools/
+app/public/file-viewer/
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,24 @@
+cohort: 2026
+major: artificial-intelligence
+majorName: 人工智能
+note: 示例培养方案，仅用于演示页面结构，不代表学院正式安排。
+semesters:
+  - year: 1
+    semester: 1
+    courses:
+      - calculus-a1
+      - programming-basics
+  - year: 1
+    semester: 2
+    courses:
+      - linear-algebra
+      - python-programming
+  - year: 2
+    semester: 1
+    courses:
+      - data-structures
+      - probability-theory
+  - year: 3
+    semester: 1
+    courses:
+      - machine-learning
